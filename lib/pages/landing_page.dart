@@ -3,7 +3,7 @@ import 'package:bridges_of_the_world/widgets/bottom_bar.dart';
 import 'package:flutter/material.dart';
 
 import '../widgets/header_widget.dart';
-import 'attraction_list_view.dart';
+import '../widgets/attraction_list_view.dart';
 
 class LandingPage extends StatelessWidget {
   const LandingPage({Key? key}) : super(key: key);
