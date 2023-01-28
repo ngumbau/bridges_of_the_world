@@ -1,4 +1,4 @@
-# Bridgets of the world
+# Bridges of the world
 
 Flutter UI challenge (Splash Screen, Landing Page, Details) aimed at illustrating how to create Flutter user interfaces with ease.
 
@@ -7,4 +7,4 @@ Flutter UI challenge (Splash Screen, Landing Page, Details) aimed at illustratin
 - [x] Creating Dart models to mock up data.
 - [x] Network Images, Material Icons, Basic Navigation strategies.
 
-![Mounts of the World App ](/bridges.png)
+![Bridges of the World App ](/bridges.png)
